@@ -37,3 +37,8 @@ cypress/screenshots
 cypress/fixtures/example.json
 
 .eslintcache
+.env
+.env.development
+.env.production
+.env.development
+.env.production

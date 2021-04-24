@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'https://floofyswap.finance/',
   },
   {
     label: 'Trade',
@@ -24,27 +24,27 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'https://floofyswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/pools',
+    href: 'https://floofyswap.finance/pools',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
+    href: 'https://floofyswap.finance/lottery',
   },
   {
     label: 'Collectibles',
     icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
+    href: 'https://floofyswap.finance/nft',
   },
   {
     label: 'Team Battle',
     icon: 'TeamBattleIcon',
-    href: 'https://pancakeswap.finance/competition',
+    href: 'https://floofyswap.finance/competition',
     status: {
       text: 'CLAIM',
       color: 'warning',
@@ -56,15 +56,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
+        href: 'https://floofyswap.finance/teams',
       },
       {
         label: 'Task Center',
-        href: 'https://pancakeswap.finance/profile/tasks',
+        href: 'https://floofyswap.finance/profile/tasks',
       },
       {
         label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
+        href: 'https://floofyswap.finance/profile',
       },
     ],
   },
@@ -74,26 +74,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://pancakeswap.info',
+        href: 'https://floofyswap.info',
       },
       {
         label: 'Tokens',
-        href: 'https://pancakeswap.info/tokens',
+        href: 'https://floofyswap.info/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://pancakeswap.info/pairs',
+        href: 'https://floofyswap.info/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://pancakeswap.info/accounts',
+        href: 'https://floofyswap.info/accounts',
       },
     ],
   },
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'https://floofyswap.finance/ifo',
   },
   {
     label: 'More',
@@ -101,11 +101,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: 'https://docs.floofyswap.finance/contact-us',
       },
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://voting.floofyswap.finance',
       },
       {
         label: 'Github',
