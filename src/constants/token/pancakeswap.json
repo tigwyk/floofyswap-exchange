@@ -19,15 +19,15 @@
       "logoURI": "https://exchange.floofyswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "WBNB Token Test",
+      "name": "WBNB Token Testnet",
       "symbol": "WBNBT",
-      "address": "0xb382152e83d14d335f6a733c2830b77bda98d6e8",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.floofyswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "FLOOF Token",
+      "name": "FLOOF Token Testnet",
       "symbol": "FLOOF",
       "address": "0x249c026ca1432d78bf96dae2d4d012243f525414",
       "chainId": 97,
